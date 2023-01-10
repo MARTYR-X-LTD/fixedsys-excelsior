@@ -1,6 +1,6 @@
 # Fixedsys Excelsior
 
-Fixedsys Excelsior is a modification to the original Fixedsys typeface, which was the default font of **Microsoft Notepad** in Windows 95, 98 and Me.
+Fixedsys Excelsior is a conversion of the original Fixedsys typeface, which was the default font of **Microsoft Notepad** in Windows 95, 98 and Me.
 
 This is not an exclusive martyr⁠— creation, but rather a continuation of the work of many different authors.
 
